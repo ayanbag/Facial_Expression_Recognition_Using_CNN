@@ -5,3 +5,6 @@ four max-pooling layers, and two connected layers. The convolutional layers with
 size of 2x2. Like the convolutional layer, the RELU activation function is applied in the hidden layers of our network. Softmax has been used as an activation function of the 
 output layer. Adam is used as our model optimizer with a learning rate of 0.0005.And as loss function, Categorical Crossentropy is used. I have trained this model with 28,708 
 training images and tested on 7178 test images. After 500 epochs, it reached a training accuracy of 84%.
+
+
+Click [here](https://ayanbag.com/publication) to know more
