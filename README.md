@@ -15,7 +15,7 @@ expression of a human being via a computer is a very complex process due to its 
 including color, expression, position, and orientation. The aim of this paper is to presents a Convolution Neural Network (CNN)
 architecture for real-time facial expression recognition
 
-## Working and Result
+## Model Overview
 My model can detect the facial expressions of a human being and can predict the emotional state of the person in realtime. Our model is compromised of four convolutional layers, 
 four max-pooling layers, and two connected layers. The convolutional layers with the kernel size of 3x3 are stacked together which are followed by maxpooling layer with kernel
 size of 2x2. Like the convolutional layer, the RELU activation function is applied in the hidden layers of our network. Softmax has been used as an activation function of the 
