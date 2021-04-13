@@ -24,6 +24,8 @@ training images and tested on 7178 test images. After 500 epochs, it reached a t
 
 
 ## Cite as
+>Bag, A., Real Time Facial Expression Recognition using Convolution Neural Network Algorithm. ([pdf](https://www.ijraset.com/fileserve.php?FID=31485))
+
 **Bibtex :**
 ```
 @article{bagreal,
